@@ -1,8 +1,8 @@
-class Person 
+class Person
   def initialize(name)
-    @name = name 
-  end 
+    @name = name
+  end
 
   def 
 
-end 
+end
